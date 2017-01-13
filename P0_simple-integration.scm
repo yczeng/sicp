@@ -1,6 +1,4 @@
 #lang racket
-#Catherine Zeng 1/12/17
-#MIT 6.037 Project 0
 
 -
 "Part 1: Numerical integration"
